@@ -1,3 +1,13 @@
+## 👥 Team Details
+
+- **Team ID:** 10097
+
+### Members
+
+1. **Nanda Kishore** – Team Leader  
+2. **Vinay Burugu**
+3. **Akshay**
+4. **Vedik**
 
 
 ### 📄 README.md (Copy into your project root)
